@@ -5,4 +5,4 @@ DHWSAVE.CBL --------- written in Enterprise COBOL v6.3 for z/OS & Unix
 
 dhwsave.COB ---------- written in VSI COBOL for Open VMS
 
-dhw_savings_calc.py --- written in Python3 for Windows, Linux, & Unix console
+dhw_savings_calc.py --- written in Python3 for Windows, Linux, & Unix consoles
