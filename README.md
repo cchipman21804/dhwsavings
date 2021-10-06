@@ -8,3 +8,7 @@ dhwsave.COB --------------- written in VSI COBOL for Open VMS
 dhw_savings_calc.py ------- written in Python3 for Windows, Linux, & Unix consoles
 
 dhw_savings_calc_gui.py --- written in Python3 with the tkinter module for Windows & Linux
+
+dhwsave.rexx -------------- written in REXX for IBM z/OS; sends output to console
+
+dhwsvrpt.rexx ------------- written in REXX for IBM; sends output to console & sequential dataset
