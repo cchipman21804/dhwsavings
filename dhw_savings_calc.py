@@ -366,7 +366,7 @@ newFuelConsumed = newEnergy / newconvUnit
 newCost = newFuelConsumed * newfuelPrice                                                                                              
 #                                                                                               
 print("    New Fuel Consumption: {0:.1f} {1}".format(newFuelConsumed,newfuelUnit))                                                                                              
-print("    New Fuel Cost: ${0:.2f} @${1} per {2}\n".format(newCost,initfuelPrice,newfuelUnit))                                                                                        
+print("    New Fuel Cost: ${0:.2f} @${1} per {2}\n".format(newCost,newfuelPrice,newfuelUnit))                                                                                        
 #                                                                                               
 waterSaved = initUsage - newUsage 
 energySaved = initEnergy - newEnergy                                                                                               
